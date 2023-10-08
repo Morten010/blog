@@ -33,7 +33,7 @@ export default function Hero() {
             />
             <div
             className='flex absolute bottom-3 left-3 sm:gap-3 gap-1 text-sm md:text-lg font-semibold flex-wrap'
-            >
+            > 
                 <p
                 className=' bg-white sm:px-4 md:py-2 rounded-full px-2 py-1'
                 >
